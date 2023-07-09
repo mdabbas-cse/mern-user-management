@@ -4,7 +4,6 @@ import avatar from '../assets/img/profile.png';
 import styles from '../styles/user.module.css';
 import { useFormik } from 'formik';
 import { usernameValidate } from '../helpers/validate';
-// import { Toast } from 'react-hot-toast';
 
 export default function Username() {
 
